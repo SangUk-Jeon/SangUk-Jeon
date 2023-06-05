@@ -1,13 +1,19 @@
 ## Welcome to my GitHub.
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jeonsanguk1217@naver.com)](mailto:Jeonsanguk17@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jeonsanguk1217@naver.com)](mailto:Jeonsanguk17@naver.com)
 ![](https://img.shields.io/github/followers/SangUk-Jeon?style=plastic)                           
 
 Hello, my name is SangUk-Jeon.
-I am a middle school student who likes to program normally.
+I am a High school student who likes to program normally.
+
+안녕하세요. 제 이름은 전상욱입니다.
+저는 고등학교에 재학 중이며 프로그래밍하는 것을 좋아하는 사람입니다.
+
+My Site > litt.ly/jeonsanguk
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SangUk-Jeon&show_icons=true&theme=dark)![](https://github.com/anuraghazra/github-readme-stats)![](https://github-readme-stats.vercel.app/api/top-langs/?username=SangUk-Jeon&langs_count=3show_icons=true&theme=dark)
   
-  # 📘 Project
+  # 📘 A Representative Project
 + Arduino_LedWave
-+ KeyPad_Example
-+ Bluetooth_Arduino
++ Arduinoz_Bluetooth
++ File_Test
++ PortfolioSite ( HTML 자체 한계로 Notion 으로 변경 )
