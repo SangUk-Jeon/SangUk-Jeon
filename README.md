@@ -16,4 +16,4 @@ My Site > https://litt.ly/jeonsanguk
 + Arduino_LedWave
 + Arduinoz_Bluetooth
 + File_Test
-+ PortfolioSite ( HTML 자체 한계로 Notion 으로 변경 )
++ PortfolioSite (HTML 자체 한계로 Notion 으로 변경)
