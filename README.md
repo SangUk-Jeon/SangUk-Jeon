@@ -8,7 +8,7 @@ I am a High school student who likes to program normally.
 안녕하세요. 제 이름은 전상욱입니다.
 저는 고등학교에 재학 중이며 프로그래밍하는 것을 좋아하는 사람입니다.
 
-My Site > litt.ly/jeonsanguk
+My Site > https://litt.ly/jeonsanguk
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SangUk-Jeon&show_icons=true&theme=radical)![](https://github.com/anuraghazra/github-readme-stats)![](https://github-readme-stats.vercel.app/api/top-langs/?username=SangUk-Jeon&langs_count=3show_icons=true&theme=radical)
   
