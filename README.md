@@ -10,7 +10,7 @@ I am a High school student who likes to program normally.
 
 My Site > https://litt.ly/jeonsanguk
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SangUk-Jeon&show_icons=true&theme)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SangUk-Jeon&show_icons=true)
   
   # 📘 A Representative Project
 + Arduino_LedWave
