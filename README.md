@@ -1,5 +1,5 @@
 ## Welcome to my GitHub.
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jeonsanguk1217@naver.com)](mailto:Jeonsanguk17@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jeonsanguk1217@naver.com)](mailto:jeonsanguk1217@naver.com)
 ![](https://img.shields.io/github/followers/SangUk-Jeon?style=plastic)                           
 
 Hello, my name is SangUk-Jeon.
