@@ -14,4 +14,3 @@ I am a High school student who likes to program normally.
 + Arduino_LedWave
 + Arduinoz_Bluetooth
 + File_Test
-+ PortfolioSite (HTML 자체 한계로 Notion 으로 변경)
